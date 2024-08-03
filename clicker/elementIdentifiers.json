@@ -1,0 +1,14 @@
+{
+
+    "entranceScreen": ".TankPreviewComponentStyle-hidden",
+    "playButton": "Play",
+    "proBattlesMode": "PRO battles",
+    "parkourMode": "Parkour",
+    "battleListFormat": ".HotKey-commonBlockForHotKey",
+    "battleElement": ".modeLimitIcon",
+    "joinTeamA": "JOIN TEAM ALFA",
+    "joinTeamB": "JOIN TEAM BRAVO",
+    "confirmButton": "Join",
+    "username": ".UserInfoContainerStyle-userNameRank"
+  
+}
