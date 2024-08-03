@@ -1,9 +1,0 @@
-{
-  "team": "A",
-  "mainServerURL": "https://tankionline.com/play/",
-  "testServerURL": "https://public-deploy4.test-eu.tankionline.com/browser-public/index.html?config-template=https://c{server}.public-deploy4.test-eu.tankionline.com/config.xml&resources=../resources&balancer=https://balancer.public-deploy4.test-eu.tankionline.com/balancer",
-  "serverNumber": 4,
-  "battleId": 0,
-  "type": "mainServer",
-  "headless": false
-}
